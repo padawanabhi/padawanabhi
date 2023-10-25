@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @padawanabhi
 - 👀 I’m interested in Data Science, Machine Learning and Robotics
-- 🌱 I’m currently learning machine learning and modeling techniques and other advancements in Data science, Computer vision and NLP
-- 💞️ I’m looking to collaborate on any interesting data science projects and would be happy to work on any computer vision,nlp, other machine learning or even robotics projects. 
+- 🌱 I’m am constantly learning about innovations, research and modeling techniques and other advancements in Data science, Machine learning and Robotics
+- 💞️ I’m looking to collaborate on any interesting projects and would be happy to work on any computer vision,nlp, other machine learning or even robotics projects. 
 - 📫 You can reach me at abhishek.nair123@yahoo.com
 
 <!---
